@@ -1,6 +1,8 @@
 # Greetings, I'm Adamm! 👋
 
-![Banner Image](https://photos.app.goo.gl/zo2fupAbXaQKLHwB9)
+<p align="center">
+  <a href="https://lh3.googleusercontent.com/pw/AP1GczNSasJB3oAVvCLBTPqsCku32_ACFnzI2kUawvLDLmPxlU2unv6DbeviKUBod8xqk7mUVRC0KdYkp5Vn40f0ijqTE01srTw1QKd5TkXEWdTCk8MJ-69T=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczNSasJB3oAVvCLBTPqsCku32_ACFnzI2kUawvLDLmPxlU2unv6DbeviKUBod8xqk7mUVRC0KdYkp5Vn40f0ijqTE01srTw1QKd5TkXEWdTCk8MJ-69T=w600-h315-p-k" alt="banner" class="center"> </a>
+</p>
 
 
 ## About Me 🧑‍💻
