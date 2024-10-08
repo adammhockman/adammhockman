@@ -1,7 +1,7 @@
 # Greetings, I'm Adamm! 👋
 
 <p align="center">
-  <a href="https://lh3.googleusercontent.com/pw/AP1GczNSasJB3oAVvCLBTPqsCku32_ACFnzI2kUawvLDLmPxlU2unv6DbeviKUBod8xqk7mUVRC0KdYkp5Vn40f0ijqTE01srTw1QKd5TkXEWdTCk8MJ-69T=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczNSasJB3oAVvCLBTPqsCku32_ACFnzI2kUawvLDLmPxlU2unv6DbeviKUBod8xqk7mUVRC0KdYkp5Vn40f0ijqTE01srTw1QKd5TkXEWdTCk8MJ-69T=w600-h315-p-k" alt="banner" class="center"> </a>
+  <a href="https://lh3.googleusercontent.com/pw/AP1GczMZrjLZjYfVEkOgGe-jf8DCtBGwfX8CB4YfdJAJPHuiEa8ym5lDeBLyGDmAjBsgvD0K3C-jvDN4SHNSr66obga66GeN60iGxdmwNTVMFheznUE8uFeH=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczMZrjLZjYfVEkOgGe-jf8DCtBGwfX8CB4YfdJAJPHuiEa8ym5lDeBLyGDmAjBsgvD0K3C-jvDN4SHNSr66obga66GeN60iGxdmwNTVMFheznUE8uFeH=w600-h315-p-k" alt="banner" class="center"> </a>
 </p>
 
 
@@ -42,7 +42,9 @@ M.S. in Pure Mathematics
 
 ### Java Games
 
-![Project 1 Screenshot](project_1_screenshot_url)
+<p align="center">
+  <a href="https://lh3.googleusercontent.com/pw/AP1GczMGUHU7b8fsPYp9k1v-H45tNEu1q2YtZOgQ0zqWXDpCDWEDUf_XV_-2h5npqKzVBKNe_E6pime_CMmxzX3cdON6P0kDbeolHC1-nuus_8DnuwvqQuge=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczMGUHU7b8fsPYp9k1v-H45tNEu1q2YtZOgQ0zqWXDpCDWEDUf_XV_-2h5npqKzVBKNe_E6pime_CMmxzX3cdON6P0kDbeolHC1-nuus_8DnuwvqQuge=w600-h315-p-k" alt="banner" class="center"> </a>
+</p>
 
 Java Games is an implementation of Tetris and the Number Slide game. Project is built with core java and a small graphics package relying on java.awt. This project demonstrates my ability to utilize graphics packages, object-oriented design, concurrency and threading, as well as the A* algorithm used when solving number slide. 
 
@@ -51,8 +53,6 @@ You can check out the repository [here](https://github.com/adammhockman/java-gam
 
 ### Neighborhood Clusters
 
-![Project 2 Screenshot](neighborhood-clusters_screenshot_url)
-
 Neighborhood clusters is a data science project built with python and Jupyter notebooks. This project uses unsupervised learning algorithms to cluster neighborhoods using Foursquare data as the primary feature vector. 
 
 You can check out the repository [here](https://github.com/adammhockman/neighborhood-clusters).
@@ -60,12 +60,10 @@ You can check out the repository [here](https://github.com/adammhockman/neighbor
 
 ## Fire Flow Chess
 
-![Webpage Screenshot](fireflowchess_screenshot_url)
-
 Fire Flow Chess is my artisan woodworking shop. Combines wood working with resin to produce modern chess tables. You can check out the site [here](https://fireflowchess.com/).
 
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/adamm-hockman-35867396/)
-- **[Instagram]**(https://www.instagram.com/aflow1992/)
+- [LinkedIn](https://www.linkedin.com/in/adamm-hockman-35867396/)
+- [Instagram](https://www.instagram.com/aflow1992/)
